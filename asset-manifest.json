@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.80de0a73.js",
+    "main.css": "/static/css/main.75212269.css",
+    "main.js": "/static/js/main.3ef6f634.js",
     "static/media/Developer.png": "/static/media/Developer.2764ea2c290e4ac75f2b.png",
     "static/media/Newsapp.png": "/static/media/Newsapp.e9a18419e4c94d6d81e4.png",
     "static/media/IPort.png": "/static/media/IPort.73e332f650ac20ca64b1.png",
@@ -25,11 +26,16 @@
     "static/media/HTML.png": "/static/media/HTML.b4537cd4bb15d7969a3e.png",
     "static/media/Python.png": "/static/media/Python.e047f6f4485556520a4b.png",
     "static/media/Github.png": "/static/media/Github.e91e44139b39715df4a6.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/Git.png": "/static/media/Git.49ae8bb22dffa3cc3edb.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.80de0a73.js.map": "/static/js/main.80de0a73.js.map"
+    "main.75212269.css.map": "/static/css/main.75212269.css.map",
+    "main.3ef6f634.js.map": "/static/js/main.3ef6f634.js.map"
   },
   "entrypoints": [
-    "static/js/main.80de0a73.js"
+    "static/css/main.75212269.css",
+    "static/js/main.3ef6f634.js"
   ]
 }
